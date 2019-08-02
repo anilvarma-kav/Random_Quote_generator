@@ -4,15 +4,13 @@ var quotes = [
     quote: "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
     source: "Patrick McKenzie",
     citation: "Twitter",
-    year: "2017",
-    tag:  "Programming"
+    year: "2017"
   },
   {
     quote: "Without requirements or design, programming is the art of adding bugs to an empty text file.",
     source: "Louis Srygley",
     citation: "Twitter",
-    year: "2017",
-    tag:  "Programming"
+    year: "2017"
   },
   {
     quote: "Me! Books and cleverness! There are more important things: friendship and bravery.",

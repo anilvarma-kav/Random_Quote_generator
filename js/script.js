@@ -42,6 +42,9 @@ function printQuote(){
   if(randomObject.year){
     html=html+'<span class="year">'+randomObject.year+'</span></p>';
   }
+  if(randomObject.tag){
+    html=html+'<span class="tag">'+randomObject.tag+'</span></p>';
+  }
   //finally target the div with the id of quote-box, and set its innerHTML equal to the html string
   var outputDiv = document.getElementById('quote-box');
   outputDiv.innerHTML = html;
